@@ -1,0 +1,15 @@
+/* Cufonfonts.com*/
+/* 
+@font-face{
+    font-family: 'Alpha Echo';
+    font-style: normal;
+    font-weight: normal ;
+    src: local('Alpha Echo') , url('alpha_echo.ttf') format('ttf');
+} */
+
+h1{
+    font-family: 'OpenSans';
+    font-style: normal;
+    font-weight: 200 ;
+    color: rgb(6, 6, 12);
+}
